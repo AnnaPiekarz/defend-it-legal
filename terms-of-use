@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Use - Defend It</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 40px 24px;
+      background: #ffffff;
+      color: #1c1c1e;
+      line-height: 1.7;
+    }
+    h1 { font-size: 28px; margin-bottom: 4px; }
+    h2 { font-size: 18px; margin-top: 36px; margin-bottom: 8px; color: #1c1c1e; }
+    p  { margin: 8px 0; color: #3a3a3c; }
+    ul { padding-left: 20px; margin: 8px 0; }
+    li { margin: 4px 0; color: #3a3a3c; }
+    a  { color: #007aff; }
+    .meta { color: #8e8e93; font-size: 14px; margin-bottom: 32px; }
+    hr { border: none; border-top: 1px solid #e5e5ea; margin: 32px 0; }
+  </style>
+</head>
+<body>
+
+  <h1>Terms of Use - Defend It</h1>
+  <p class="meta">
+    Last updated: June 4, 2026<br />
+    Developer: Anna Piekarz<br />
+    Contact: <a href="mailto:defenditpartygame.support@gmail.com">defenditpartygame.support@gmail.com</a>
+  </p>
+
+  <hr />
+
+  <h2>1. Acceptance of Terms</h2>
+  <p>
+    By downloading, installing, or using the Defend It mobile application ("App"), you agree to
+    be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use
+    the App.
+  </p>
+  <p>
+    These Terms constitute an agreement solely between you and Anna Piekarz ("Developer", "we",
+    "our"). Apple Inc. and Google LLC are not parties to this agreement and bear no
+    responsibility for the App or its content.
+  </p>
+
+  <h2>2. License</h2>
+  <p>
+    Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, revocable
+    license to install and use the App on devices you own or control, solely for your personal,
+    non-commercial purposes.
+  </p>
+  <p>You may not:</p>
+  <ul>
+    <li>Copy, modify, or create derivative works of the App</li>
+    <li>Reverse engineer, decompile, or disassemble the App</li>
+    <li>Use the App for any commercial purpose</li>
+    <li>Distribute, sublicense, or transfer the App to any third party</li>
+    <li>Remove or alter any proprietary notices or labels on the App</li>
+  </ul>
+
+  <h2>3. Subscriptions and In-App Purchases</h2>
+  <p>
+    The App offers an optional premium subscription ("Defend It Premium") that unlocks additional
+    features. The following terms apply to all purchases:
+  </p>
+  <ul>
+    <li>
+      Subscriptions are offered on a monthly or yearly basis and are processed through the
+      Apple App Store or Google Play. Payment will be charged to your App Store or Google Play
+      account at confirmation of purchase.
+    </li>
+    <li>
+      Subscriptions automatically renew unless cancelled at least 24 hours before the end of
+      the current period. Your account will be charged for renewal within 24 hours prior to
+      the end of the current period.
+    </li>
+    <li>
+      You can manage and cancel your subscription at any time through your App Store or
+      Google Play account settings.
+    </li>
+    <li>
+      No refunds are provided for partial subscription periods, except where required by
+      applicable law.
+    </li>
+  </ul>
+  <p>
+    Subscription management and purchase validation are handled in part by
+    <strong>RevenueCat</strong> (Revenue Cat, Inc.), a third-party service used to verify
+    and manage your subscription status. RevenueCat receives your purchase receipt and
+    anonymous subscription data solely for this purpose. RevenueCat's Terms of Service are
+    available at
+    <a href="https://www.revenuecat.com/terms" target="_blank">https://www.revenuecat.com/terms</a>.
+  </p>
+
+  <h2>4. Your Data</h2>
+  <p>
+    All data you create in the App (game settings and preferences) is stored locally on your
+    device and is never transmitted to or accessed by the Developer. You are solely responsible
+    for maintaining backups of your data.
+  </p>
+  <p>
+    For details on how the App and its third-party services handle data, please review our
+    <a href="../privacy-policy">Privacy Policy</a>.
+  </p>
+
+  <h2>5. User Conduct</h2>
+  <p>
+    Defend It is a party game intended for entertainment purposes. You agree to use the App
+    in a lawful, respectful manner. The App must not be used in any way that is harmful,
+    offensive, or disruptive to others.
+  </p>
+
+  <h2>6. Disclaimer of Warranties</h2>
+  <p>
+    The App is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, either
+    express or implied, including but not limited to implied warranties of merchantability,
+    fitness for a particular purpose, and non-infringement.
+  </p>
+  <p>
+    We do not warrant that the App will be uninterrupted, error-free, or free of viruses or
+    other harmful components. We do not warrant the accuracy or completeness of any content
+    within the App.
+  </p>
+  <p>
+    To the extent permitted by applicable law, Apple Inc. makes no warranties with respect
+    to the App whatsoever.
+  </p>
+
+  <h2>7. Limitation of Liability</h2>
+  <p>
+    To the fullest extent permitted by applicable law, the Developer shall not be liable for
+    any indirect, incidental, special, consequential, or punitive damages, including loss of
+    data, loss of profits, or business interruption, arising out of or in connection with
+    your use of the App.
+  </p>
+  <p>
+    The Developer's total liability to you for any claims arising from these Terms or your
+    use of the App shall not exceed the greater of (a) the amounts you paid for the App in
+    the twelve months preceding the claim, or (b) USD $10.
+  </p>
+  <p>
+    <strong>Nothing in these Terms excludes or limits liability that cannot be excluded or
+    limited under applicable law</strong>, including statutory rights of consumers under
+    Polish law and applicable EU consumer protection directives.
+  </p>
+
+  <h2>8. Intellectual Property</h2>
+  <p>
+    The App, including its design, code, graphics, and content, is owned by Anna Piekarz and
+    protected by copyright and other intellectual property laws. These Terms do not grant you
+    any rights to our trademarks or service marks.
+  </p>
+  <p>
+    In the event of any third-party claim that the App or your possession and use of the App
+    infringes a third party's intellectual property rights, the Developer, not Apple or Google,
+    will be solely responsible for the investigation, defence, settlement, and discharge of
+    any such claim.
+  </p>
+
+  <h2>9. Product Liability</h2>
+  <p>
+    The Developer, not Apple or Google, is responsible for addressing any claims by you or
+    any third party relating to the App or your possession and use of the App, including but
+    not limited to product liability claims and claims that the App fails to conform to any
+    applicable legal or regulatory requirement.
+  </p>
+
+  <h2>10. Termination</h2>
+  <p>
+    These Terms are effective until terminated. Your rights under these Terms will terminate
+    automatically without notice if you fail to comply with any of their provisions.
+  </p>
+  <p>
+    We reserve the right to suspend or terminate your access to the App at any time for
+    violations of these Terms. Upon termination, you must cease all use of the App and delete
+    all copies from your devices.
+  </p>
+
+  <h2>11. Changes to These Terms</h2>
+  <p>
+    We may update these Terms from time to time. We will notify you of significant changes by
+    updating the "Last updated" date at the top of this document. Continued use of the App
+    after changes constitutes your acceptance of the updated Terms.
+  </p>
+
+  <h2>12. Governing Law and Disputes</h2>
+  <p>
+    These Terms are governed by the laws of Poland, without regard to its conflict of law
+    provisions. Any disputes arising from these Terms or the App shall be subject to the
+    exclusive jurisdiction of the courts of Poland.
+  </p>
+  <p>
+    If you are a consumer located in the European Union, you may also use the EU Online
+    Dispute Resolution platform:
+    <a href="https://ec.europa.eu/consumers/odr" target="_blank">https://ec.europa.eu/consumers/odr</a>.
+    This does not affect your statutory rights as a consumer under applicable EU law.
+  </p>
+
+  <h2>13. Apple-Specific Terms</h2>
+  <p>
+    If you downloaded the App from the Apple App Store, the following additional terms apply:
+  </p>
+  <ul>
+    <li>
+      These Terms are concluded between you and the Developer only, and not with Apple Inc.
+      Apple is not responsible for the App and its content.
+    </li>
+    <li>
+      Apple has no obligation whatsoever to provide any maintenance or support services with
+      respect to the App.
+    </li>
+    <li>
+      Apple has no warranty obligations with respect to the App. To the maximum extent
+      permitted by applicable law, Apple will have no other warranty obligation whatsoever
+      with respect to the App.
+    </li>
+    <li>
+      Apple is not responsible for addressing any claims by you or any third party relating
+      to the App, including product liability claims, consumer protection claims, or
+      intellectual property infringement claims.
+    </li>
+    <li>
+      Apple and Apple's subsidiaries are third-party beneficiaries of these Terms. Upon your
+      acceptance of these Terms, Apple will have the right (and will be deemed to have
+      accepted the right) to enforce these Terms against you as a third-party beneficiary.
+    </li>
+    <li>
+      You must comply with applicable third-party terms of agreement when using the App
+      (e.g. you must not be in violation of your wireless data service agreement when
+      using the App).
+    </li>
+  </ul>
+
+  <h2>14. Contact</h2>
+  <p>
+    If you have any questions about these Terms, please contact:
+  </p>
+  <p>
+    <strong>Anna Piekarz</strong><br />
+    <a href="mailto:defenditpartygame.support@gmail.com">defenditpartygame.support@gmail.com</a>
+  </p>
+
+</body>
+</html>
